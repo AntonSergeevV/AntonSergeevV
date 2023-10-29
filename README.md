@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Anton and i'm a junior Java developer)
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Spring, JavaFX, Docker.
 - 📫 How to reach me: phone, email
 - ✨ i speak English
 
